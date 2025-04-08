@@ -1,6 +1,7 @@
 # 🚗 Car Rental Management Project (ReactJS)
+
 A modern Car Rental web application built using React.js, React Router, Bootstrap. This project includes user and admin interfaces, form handling, protected admin login, and modular routing.
--
+
 
 ## 🔧 Tech Stack
 
@@ -12,7 +13,7 @@ Routing: React Router DOM
 
 State Management: React useState, useContext
 
---
+
 
 ## 📋 Dashboard with sidebar navigation
 
