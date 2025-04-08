@@ -1,6 +1,6 @@
 import React, { useContext } from "react"
 import { NavLink, Outlet } from "react-router-dom"
-import { loginStatus } from "../../App"
+import { loginStatus } from '../App'; 
 import AdminLogin from "./AdminLogin"
 
 
